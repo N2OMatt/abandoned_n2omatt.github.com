@@ -1,3 +1,7 @@
+# THIS CODE IS UNDER THE GPLv3 LICENSE 
+# Check the LICENSE file in the codes top folder.
+# Author: n2omatt - n2o.matt@gmail.com
+# Enjoy...
 import termcolor;
 
 #Very basic usage.

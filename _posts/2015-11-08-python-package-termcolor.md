@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Termcolor - A very cool output coloring package for python."
-date:   2015-11-07 
+date:   2015-11-08
 category: Programming
 tags: 
 - python
-- termcolor 
 - python-packages
+- termcolor 
 
 assets: /assets/2015-11-08-python-package-termcolor
 code: /code/2015-11-08-python-package-termcolor

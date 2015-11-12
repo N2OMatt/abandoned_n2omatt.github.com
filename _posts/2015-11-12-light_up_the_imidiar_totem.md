@@ -1,15 +1,20 @@
 ---
 layout: post
-title:  "Termcolor - A very cool output coloring package for python."
-date:   2015-11-08
+title:  "Light up the Imidiar Totem"
+date:   2015-11-12
 category: Programming
 tags: 
+- Imidiar
+- Imidiar-Totem
 - python
-- python-packages
-- termcolor 
+- parallel-port
+- challenge
+- pygame
+- pyside
+- python-PortIO
+- PyParallel
 
-assets: /assets/2015-11-08-python-package-termcolor
-code: /code/2015-11-08-python-package-termcolor
+assets: /assets/2015-11-12-light_up_the_imidiar_totem
 ---
 
 ### Intro:
@@ -92,7 +97,8 @@ The second part __IS__ implementing this stuff into the Photo Totem program.
 This is challenging me to thinking in a neat implementation, since the flash 
 hardware that came to me is basically:
 
-{% highlight plain %}
+{% highlight bash %}
+
  ,---.
 /     \
 |     | <--- LED :) (Man, imagination is all)

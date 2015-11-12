@@ -1,20 +1,15 @@
 ---
 layout: post
-title:  "Light up the Imidiar Totem"
-date:   2015-11-12
+title:  "Termcolor - A very cool output coloring package for python."
+date:   2015-11-08
 category: Programming
 tags: 
-- Imidiar
-- Imidiar-Totem
 - python
-- parallel-port
-- challenge
-- pygame
-- pyside
-- python-PortIO
-- PyParallel
+- python-packages
+- termcolor 
 
-assets: /assets/2015-11-12-light_up_the_imidiar_totem
+assets: /assets/2015-11-08-python-package-termcolor
+code: /code/2015-11-08-python-package-termcolor
 ---
 
 ### Intro:

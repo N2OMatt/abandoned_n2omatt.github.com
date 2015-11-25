@@ -1,106 +1,128 @@
 ---
 layout: page
 title: Certs
-permalink: /Certs/
+permalink: /certs/
 ---
 
-NOTICE - THIS PAGE IS SCRIPT GENERATED...
-AND THE SCRIPT IS A __WIP__ YET :)
 
 ### Bradesco
-* [ Aplicações Windows Mobile](../certs/Bradesco/01%20-%20Aplica%C3%A7%C3%B5es%20Windows%20Mobile.jpg)
-* [ C++ Desenvolvimento Orientado a Objeto](../certs/Bradesco/02%20-%20C%2B%2B%20Desenvolvimento%20Orientado%20a%20Objeto.jpg)
-* [ Expression Blend](../certs/Bradesco/03%20-%20Expression%20Blend.jpg)
-* [ Introdução ao Javascript](../certs/Bradesco/04%20-%20Introdu%C3%A7%C3%A3o%20ao%20Javascript.jpg)
-* [ Lógica de Programação](../certs/Bradesco/05%20-%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o.jpg)
-* [ Processo de Desenvolvimento de Software](../certs/Bradesco/06%20-%20Processo%20de%20Desenvolvimento%20de%20Software.jpg)
-* [ Programação em C Sharp](../certs/Bradesco/07%20-%20Programa%C3%A7%C3%A3o%20em%20C%20Sharp.jpg)
-* [ Silverlight](../certs/Bradesco/08%20-%20Silverlight.jpg)
-* [ Microsoft Windows XP](../certs/Bradesco/09%20-%20Microsoft%20Windows%20XP.jpg)
-* [ HTML Básico](../certs/Bradesco/10%20-%20HTML%20B%C3%A1sico.jpg)
-* [ Engenharia de Requisitos](../certs/Bradesco/11%20-%20Engenharia%20de%20Requisitos.jpg)
-* [ System Design Overview](../certs/Bradesco/12%20-%20System%20Design%20Overview.jpg)
-* [ Segurança da Informação](../certs/Bradesco/13%20-%20Seguran%C3%A7a%20da%20Informa%C3%A7%C3%A3o.jpg)
+
+
+* [Expression Blend](Expression_Blend.html) 
+* [Lógica de Programação](L%C3%B3gica_de_Programa%C3%A7%C3%A3o.html) 
+* [Processo de Desenvolvimento de Software](Processo_de_Desenvolvimento_de_Software.html) 
+* [Silverlight](Silverlight.html) 
+* [Aplicações Windows Mobile](Aplica%C3%A7%C3%B5es_Windows_Mobile.html) 
+* [Programação em C#](Programa%C3%A7%C3%A3o_em_C%23.html) 
+* [C++ Desenvolvimento Orientado a Objeto](C%2B%2B_Desenvolvimento_Orientado_a_Objeto.html) 
+* [Introdução ao Javascript](Introdu%C3%A7%C3%A3o_ao_Javascript.html) 
+* [Microsoft Windows XP](Microsoft_Windows_XP.html) 
+* [HTML Básico](HTML_B%C3%A1sico.html) 
+* [Engenharia de Requisitos](Engenharia_de_Requisitos.html) 
+* [System Design Overview](System_Design_Overview.html) 
+* [Segurança da Informação](Seguran%C3%A7a_da_Informa%C3%A7%C3%A3o.html) 
+
 
 ### Coursera
-* [ Exploring Beethovens Piano Sonatas](../certs/Coursera/01%20-%20Exploring%20Beethovens%20Piano%20Sonatas.jpg)
-* [ Welcome to Game Theory 2015](../certs/Coursera/02%20-%20Welcome%20to%20Game%20Theory%202015.jpg)
+
+
+* [Exploring Beethovens Piano Sonatas](Exploring_Beethovens_Piano_Sonatas.html) 
+* [Welcome to Game Theory](Welcome_to_Game_Theory.html) 
+
 
 ### Intel
-* [ Software Livre](../certs/Intel/01%20-%20Software%20Livre.jpg)
-* [ Grid Computing](../certs/Intel/02%20-%20Grid%20Computing.jpg)
-* [ TI Socialmente Responsavel](../certs/Intel/03%20-%20TI%20Socialmente%20Responsavel.jpg)
-* [ Economia de Energia](../certs/Intel/04%20-%20Economia%20de%20Energia.jpg)
-* [ Missão Critica](../certs/Intel/05%20-%20Miss%C3%A3o%20Critica.jpg)
-* [ Cloud Computing](../certs/Intel/06%20-%20Cloud%20Computing.jpg)
-* [ Conectividade Sem Fio](../certs/Intel/07%20-%20Conectividade%20Sem%20Fio.jpg)
-* [ Curso de CRM](../certs/Intel/08%20-%20Curso%20de%20CRM.jpg)
-* [ Verticalização](../certs/Intel/09%20-%20Verticaliza%C3%A7%C3%A3o.jpg)
+
+
+* [Cloud Computing](Cloud_Computing.html) 
+* [Conectividade Sem Fio](Conectividade_Sem_Fio.html) 
+* [Economia de Energia](Economia_de_Energia.html) 
+* [Grid Computing](Grid_Computing.html) 
+* [Missão Critica](Miss%C3%A3o_Critica.html) 
+* [Software Livre](Software_Livre.html) 
+* [TI Socialmente Responsavel](TI_Socialmente_Responsavel.html) 
+* [Curso de CRM](Curso_de_CRM.html) 
+* [Verticalização](Verticaliza%C3%A7%C3%A3o.html) 
+
 
 ### iPed
-* [ VBNet](../certs/iPed/01%20-%20VBNet.jpg)
-* [ Curso de Linux](../certs/iPed/02%20-%20Curso%20de%20Linux.jpg)
+
+
+* [VBNet](VBNet.html) 
+* [Curso de Linux](Curso_de_Linux.html) 
+
 
 ### MCP
-* [001__2012_10_11](../certs/MCP/001__2012_10_11.jpg)
-* [002__2012_10_11](../certs/MCP/002__2012_10_11.jpg)
-* [ Software Development Fundamentals](../certs/MCP/01%20-%20Software%20Development%20Fundamentals.jpg)
-* [ Mobile Development Fundamentals](../certs/MCP/02%20-%20Mobile%20Development%20Fundamentals.jpg)
+
+
+* [Software Development Fundamentals](Software_Development_Fundamentals.html) 
+* [Mobile Development Fundamentals](Mobile_Development_Fundamentals.html) 
+
 
 ### MVA
-* [ Entendendo desenvolvimento para o Windows Phone 7](../certs/MVA/01%20-%20Entendendo%20desenvolvimento%20para%20o%20Windows%20Phone%207.jpg)
-* [ Introdução à Business Intelligence](../certs/MVA/02%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20Business%20Intelligence.jpg)
-* [ Introdução ao Office 365](../certs/MVA/03%20-%20Introdu%C3%A7%C3%A3o%20ao%20Office%20365.jpg)
-* [ Windows Phone 7 Game Programming](../certs/MVA/04%20-%20Windows%20Phone%207%20Game%20Programming.jpg)
-* [ Fundamentos do desenvolvimento de software ](../certs/MVA/05%20-%20Fundamentos%20do%20desenvolvimento%20de%20software%20.jpg)
-* [ Introdução ao SQL Server 2008 R2](../certs/MVA/06%20-%20Introdu%C3%A7%C3%A3o%20ao%20SQL%20Server%202008%20R2.jpg)
-* [ Entendendo o Windows Azure](../certs/MVA/07%20-%20Entendendo%20o%20Windows%20Azure.jpg)
-* [ Fundamentos do Entity Framework 4](../certs/MVA/08%20-%20Fundamentos%20do%20Entity%20Framework%204.jpg)
-* [ Introdução ao desenvolvimento para Windows 8](../certs/MVA/09%20-%20Introdu%C3%A7%C3%A3o%20ao%20desenvolvimento%20para%20Windows%208.jpg)
-* [ HTML5 ](../certs/MVA/10%20-%20HTML5%20-%20Homologado%20pelo%20W3C.jpg)
-* [ Windows Phone 7](../certs/MVA/11%20-%20Windows%20Phone%207.jpg)
-* [ Conceptos de desarrollo en XNA con Visual Studio](../certs/MVA/12%20-%20Conceptos%20de%20desarrollo%20en%20XNA%20con%20Visual%20Studio.jpg)
-* [ Windows 8 ](../certs/MVA/13%20-%20Windows%208%20-%20Vista%20Previa%20.jpg)
-* [ Microsoft Licensing Fundamentals OLD](../certs/MVA/14%20-%20Microsoft%20Licensing%20Fundamentals%20OLD.jpg)
-* [ Microsoft Silverlight](../certs/MVA/15%20-%20Microsoft%20Silverlight.jpg)
-* [ Windows Azure](../certs/MVA/16%20-%20Windows%20Azure.jpg)
-* [ Introduction To Windows Azure Training](../certs/MVA/17%20-%20Introduction%20To%20Windows%20Azure%20Training.jpg)
-* [ Desarrollo basado en conceptos de Ingeniería de Software para Visual Studio](../certs/MVA/18%20-%20Desarrollo%20basado%20en%20conceptos%20de%20Ingenier%C3%ADa%20de%20Software%20para%20Visual%20Studio.jpg)
-* [ Office 365](../certs/MVA/19%20-%20Office%20365.jpg)
-* [ Internet Explorer 9](../certs/MVA/20%20-%20Internet%20Explorer%209.jpg)
-* [ Sites Fixos com Internet Explorer 9 ](../certs/MVA/21%20-%20Sites%20Fixos%20com%20Internet%20Explorer%209%20.jpg)
-* [ Windows Intune](../certs/MVA/22%20-%20Windows%20Intune.jpg)
-* [ Windows 8 ](../certs/MVA/23%20-%20Windows%208%20-%20Sua%20primeira%20App%20na%20Windows%20Store.jpg)
-* [ Desarrollando en Windows 8](../certs/MVA/24%20-%20Desarrollando%20en%20Windows%208.jpg)
-* [ Build Apps for Both Windows 8 and Windows Phone 8 Jump Start](../certs/MVA/25%20-%20Build%20Apps%20for%20Both%20Windows%208%20and%20Windows%20Phone%208%20Jump%20Start.jpg)
-* [ Building Apps for Windows Phone 8 Jump Start](../certs/MVA/26%20-%20Building%20Apps%20for%20Windows%20Phone%208%20Jump%20Start.jpg)
-* [ Windows 8 UX Design Jump Start](../certs/MVA/27%20-%20Windows%208%20UX%20Design%20Jump%20Start.jpg)
-* [ Programming in C# Jump Start](../certs/MVA/28%20-%20Programming%20in%20C%23%20Jump%20Start.jpg)
-* [ Essentials of Developing Windows Store Apps using C# Jump Start](../certs/MVA/29%20-%20Essentials%20of%20Developing%20Windows%20Store%20Apps%20using%20C%23%20Jump%20Start.jpg)
-* [ MVA Live Q&A Programming Windows with Charles Petzold](../certs/MVA/30%20-%20MVA%20Live%20Q%26A%20Programming%20Windows%20with%20Charles%20Petzold.jpg)
-* [ Organizing & Sharing with OneNote Jump Start](../certs/MVA/31%20-%20Organizing%20%26%20Sharing%20with%20OneNote%20Jump%20Start.jpg)
-* [ Gaming Engines for Windows 8 Jump Start](../certs/MVA/32%20-%20Gaming%20Engines%20for%20Windows%208%20Jump%20Start.jpg)
-* [ Software Development Fundamentals](../certs/MVA/33%20-%20Software%20Development%20Fundamentals.jpg)
-* [ Windows 8](../certs/MVA/34%20-%20Windows%208.1%20UX%20Design%20Jump%20Start.jpg)
-* [ C# Fundamentals Development for Absolute Beginners](../certs/MVA/35%20-%20C%23%20Fundamentals%20Development%20for%20Absolute%20Beginners.jpg)
-* [ MVA Live Q&A Microsoft Virtualization](../certs/MVA/36%20-%20MVA%20Live%20Q%26A%20Microsoft%20Virtualization.jpg)
-* [ MVA Live Q&A System Center 2012](../certs/MVA/37%20-%20MVA%20Live%20Q%26A%20System%20Center%202012.jpg)
-* [ MVA Live Q&A Windows Azure](../certs/MVA/38%20-%20MVA%20Live%20Q%26A%20Windows%20Azure.jpg)
-* [ JavaScript Fundamentals for Absolute Beginners](../certs/MVA/39%20-%20JavaScript%20Fundamentals%20for%20Absolute%20Beginners.jpg)
-* [ C++ A General Purpose Language and Library Jump Start](../certs/MVA/40%20-%20C%2B%2B%20A%20General%20Purpose%20Language%20and%20Library%20Jump%20Start.jpg)
-* [ Understanding Active Directory](../certs/MVA/41%20-%20Understanding%20Active%20Directory.jpg)
-* [ Networking Fundamentals](../certs/MVA/42%20-%20Networking%20Fundamentals.jpg)
-* [ Game Production Basics](../certs/MVA/43%20-%20Game%20Production%20Basics.jpg)
+
+
+* [Entendendo desenvolvimento para o Windows Phone 7](Entendendo_desenvolvimento_para_o_Windows_Phone_7.html) 
+* [Introdução à Business Intelligence](Introdu%C3%A7%C3%A3o_%C3%A0_Business_Intelligence.html) 
+* [Introdução ao Office 365](Introdu%C3%A7%C3%A3o_ao_Office_365.html) 
+* [Windows Phone 7 Game Programming](Windows_Phone_7_Game_Programming.html) 
+* [Fundamentos do desenvolvimento de software](Fundamentos_do_desenvolvimento_de_software.html) 
+* [Introdução ao SQL Server 2008 R2](Introdu%C3%A7%C3%A3o_ao_SQL_Server_2008_R2.html) 
+* [Entendendo o Windows Azure](Entendendo_o_Windows_Azure.html) 
+* [Fundamentos do Entity Framework 4](Fundamentos_do_Entity_Framework_4.html) 
+* [Introdução ao desenvolvimento para Windows 8](Introdu%C3%A7%C3%A3o_ao_desenvolvimento_para_Windows_8.html) 
+* [HTML5 - Homologado pelo W3C](HTML5_-_Homologado_pelo_W3C.html) 
+* [Conceptos de desarrollo en XNA con Visual Studio](Conceptos_de_desarrollo_en_XNA_con_Visual_Studio.html) 
+* [Windows Phone 7](Windows_Phone_7.html) 
+* [Microsoft Licensing Fundamentals OLD](Microsoft_Licensing_Fundamentals_OLD.html) 
+* [Windows 8 - Vista Previa ](Windows_8_-_Vista_Previa_.html) 
+* [Microsoft Silverlight](Microsoft_Silverlight.html) 
+* [Windows Azure](Windows_Azure.html) 
+* [Desarrollo basado en conceptos de Ingeniería de Software para Visual Studio](Desarrollo_basado_en_conceptos_de_Ingenier%C3%ADa_de_Software_para_Visual_Studio.html) 
+* [Introduction To Windows Azure Training](Introduction_To_Windows_Azure_Training.html) 
+* [Internet Explorer 9](Internet_Explorer_9.html) 
+* [Office 365](Office_365.html) 
+* [Sites Fixos com Internet Explorer 9](Sites_Fixos_com_Internet_Explorer_9.html) 
+* [Windows Intune](Windows_Intune.html) 
+* [Windows 8 - Sua primeira App na Windows Store](Windows_8_-_Sua_primeira_App_na_Windows_Store.html) 
+* [Desarrollando en Windows 8](Desarrollando_en_Windows_8.html) 
+* [Build Apps for Both Windows 8 and Windows Phone 8 Jump Start](Build_Apps_for_Both_Windows_8_and_Windows_Phone_8_Jump_Start.html) 
+* [Building Apps for Windows Phone 8 Jump Start](Building_Apps_for_Windows_Phone_8_Jump_Start.html) 
+* [Essentials of Developing Windows Store Apps using C# Jump Start](Essentials_of_Developing_Windows_Store_Apps_using_C%23_Jump_Start.html) 
+* [MVA Live Q&A Programming Windows with Charles Petzold](MVA_Live_Q%26A_Programming_Windows_with_Charles_Petzold.html) 
+* [Organizing & Sharing with OneNote Jump Start](Organizing_%26_Sharing_with_OneNote_Jump_Start.html) 
+* [Programming in C# Jump Start](Programming_in_C%23_Jump_Start.html) 
+* [Windows 8 UX Design Jump Start](Windows_8_UX_Design_Jump_Start.html) 
+* [Gaming Engines for Windows 8 Jump Start](Gaming_Engines_for_Windows_8_Jump_Start.html) 
+* [Software Development Fundamentals](Software_Development_Fundamentals.html) 
+* [C# Fundamentals Development for Absolute Beginners](C%23_Fundamentals_Development_for_Absolute_Beginners.html) 
+* [Windows 8](Windows_8.html) 
+* [MVA Live Q&A Microsoft Virtualization](MVA_Live_Q%26A_Microsoft_Virtualization.html) 
+* [MVA Live Q&A System Center 2012](MVA_Live_Q%26A_System_Center_2012.html) 
+* [MVA Live Q&A Windows Azure](MVA_Live_Q%26A_Windows_Azure.html) 
+* [JavaScript Fundamentals for Absolute Beginners](JavaScript_Fundamentals_for_Absolute_Beginners.html) 
+* [C++ A General Purpose Language and Library Jump Start](C%2B%2B_A_General_Purpose_Language_and_Library_Jump_Start.html) 
+* [Understanding Active Directory](Understanding_Active_Directory.html) 
+* [Networking Fundamentals](Networking_Fundamentals.html) 
+* [Game Production Basics](Game_Production_Basics.html) 
+* [Open Source Questions Answered](Open_Source_Questions_Answered.html) 
+* [Introduction to Programming with Python](Introduction_to_Programming_with_Python.html) 
+* [Twenty C# Questions Answered](Twenty_C%23_Questions_Answered.html) 
+
 
 ### Tux4You
-* [ Adminstração Ubuntu Gnu:Linux](../certs/Tux4You/01%20-%20Adminstra%C3%A7%C3%A3o%20Ubuntu%20Gnu%3ALinux.jpg)
+
+
+* [Adminstração Ubuntu Gnu:Linux](Adminstra%C3%A7%C3%A3o_Ubuntu_Gnu%3ALinux.html) 
+
 
 ### udemy
-* [ Aprendendo Terminal Linux pondo a mão na massa!](../certs/udemy/01%20-%20Aprendendo%20Terminal%20Linux%20pondo%20a%20m%C3%A3o%20na%20massa%21.jpg)
-* [ Certified C Coder ](../certs/udemy/02%20-%20Certified%20C%20Coder%20-%20Lite%20Edition.jpg)
-* [ Introduction to SpriteKit with iOS7 and Xcode 5](../certs/udemy/03%20-%20Introduction%20to%20SpriteKit%20with%20iOS7%20and%20Xcode%205.jpg)
-* [ Introduction to PHP Programming Language](../certs/udemy/04%20-%20Introduction%20to%20PHP%20Programming%20Language.jpg)
-* [ Linux Alternatives to Windows Applications](../certs/udemy/05%20-%20Linux%20Alternatives%20to%20Windows%20Applications.jpg)
-* [ Introduction to Linux CentOS 7](../certs/udemy/06%20-%20Introduction%20to%20Linux%20CentOS%207.jpg)
-* [ Basic of Bash Scripting](../certs/udemy/07%20-%20Basic%20of%20Bash%20Scripting.jpg)
-* [ Introduction of PHP Programming Language](../certs/udemy/08%20-%20Introduction%20of%20PHP%20Programming%20Language.jpg)
+
+
+* [Aprendendo Terminal Linux pondo a mão na massa!](Aprendendo_Terminal_Linux_pondo_a_m%C3%A3o_na_massa%21.html) 
+* [Certified C Coder - Lite Edition](Certified_C_Coder_-_Lite_Edition.html) 
+* [Introduction to SpriteKit with iOS7 and Xcode 5](Introduction_to_SpriteKit_with_iOS7_and_Xcode_5.html) 
+* [Introduction of PHP Programming Language](Introduction_of_PHP_Programming_Language.html) 
+* [Introduction to PHP Programming Language](Introduction_to_PHP_Programming_Language.html) 
+* [Linux Alternatives to Windows Applications](Linux_Alternatives_to_Windows_Applications.html) 
+* [Introduction to Linux CentOS 7](Introduction_to_Linux_CentOS_7.html) 
+* [Basic of Bash Scripting](Basic_of_Bash_Scripting.html) 

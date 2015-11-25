@@ -1,72 +1,165 @@
 #!/bin/bash
-SRC_CERTS_DIR="../_mycerts";
-DST_CERTS_DIR="../certs";
-SITE_ROOT_DIR=".."
 
-helper()
+################################################################################
+## Vars                                                                       ##
+################################################################################
+CURRENT_PATH=$(pwd)
+SITE_ROOT_DIR_PATH=$CURRENT_PATH/..
+CERTIFICATIONS_SOURCE_PATH=$CURRENT_PATH/../_mycerts
+CERTIFICATIONS_TARGET_PATH=$CURRENT_PATH/../assets/certs
+
+
+################################################################################
+## Functions                                                                  ##
+################################################################################
+clean_certifications_target_dir()
+{
+    rm -rf $CERTIFICATIONS_TARGET_PATH;
+    mkdir -p $CERTIFICATIONS_TARGET_PATH;
+}
+
+copy_certifications_to_target()
+{
+    #Change the current directory to ease the find calls.
+    cd $CERTIFICATIONS_SOURCE_PATH
+
+    echo "Creating directories..."
+    #Create the directories.
+    find ./* -not \( -path '*/\.*' -or -path '*/_*' \)    \
+             -type d                                      \
+             -exec mkdir -p "$CERTIFICATIONS_TARGET_PATH/{}" \;
+
+    echo "Copying PDFs..."
+    #Copy the certifications.
+    find ./* -not \( -path '*/\.*' -or -path '*/_*' \) \
+             -type f                                   \
+             -exec cp {} "$CERTIFICATIONS_TARGET_PATH/{}" \;
+
+    #Change back the current directory.
+    cd --
+}
+
+create_certifications_images()
+{
+    #Change the directory to ease the paths manipulation.
+    cd $CERTIFICATIONS_TARGET_PATH;
+
+    echo "Generating images..."
+    find . -iname "*.pdf" \
+           -exec bash -c "convert_pdf_to_img \"{}\"" \;
+
+    #Change back the current directory.
+    cd --
+}
+
+convert_pdf_to_img()
 {
     PDF_NAME=$1
     JPG_NAME=$(echo $PDF_NAME | sed s/pdf/jpg/g);
-    
-    # echo $PDF_NAME
-    # echo $JPG_NAME
-    
-    convert "$PDF_NAME" "$JPG_NAME"
+
+    echo "Converting..."
+    echo $PDF_NAME
+    echo $JPG_NAME
+    echo ""
+
+    convert -background white \
+            -alpha remove     \
+            -density 288      \
+            "$PDF_NAME"       \
+            "$JPG_NAME"
+
+    # convert "$PDF_NAME"       \
+    #         "$JPG_NAME"
     rm "$PDF_NAME";
 }
-url-encode()
+export -f convert_pdf_to_img
+
+url_encode()
 {
     echo $(python -c "import sys, urllib as ul; \
     print ul.quote(\" \".join(sys.argv[1:]))" $1)
 }
 
-export -f helper
+create_certification_page()
+{
+    CERT_URL=../assets/certs/$1
+    CERT_NAME=$2
+    CERT_WHITESPACED_NAME=$3
 
-rm -rf $DST_CERTS_DIR;
-if [ ! -e $DST_CERTS_DIR ]; then
-    mkdir $DST_CERTS_DIR;
-fi
+    INCLUDES_DIR_PATH=$SITE_ROOT_DIR_PATH/_includes
+    CERT_PAGE_DIR_PATH=$SITE_ROOT_DIR_PATH/certs
+    CERT_PATH_FILE_PATH=$CERT_PAGE_DIR_PATH/$CERT_NAME.html
 
-#Change the directory to ease the paths manipulation.
-cd $SRC_CERTS_DIR
-
-#Create the directories.
-find ./* -not \( -path '*/\.*' -or -path '*/_*' \) -type d -exec mkdir -p "$DST_CERTS_DIR/{}" \;
-#Copy the certifications.
-find ./* -not \( -path '*/\.*' -or -path '*/_*' \) -type f -exec cp {} "$DST_CERTS_DIR/{}" \;
-
-#Change the directory to ease the paths manipulation.
-cd $DST_CERTS_DIR;
-find . -iname "*.pdf" -exec bash -c "helper \"{}\"" \;
-
-#####
-#Change the directory to ease the paths manipulation.
-cd $SITE_ROOT_DIR;
-
-echo -e "---\n\
+    echo $CERT_URL;
+    echo "<img src=\"""$CERT_URL"\""></img>" > $CERT_PATH_FILE_PATH;
+    echo "<h3>$CERT_WHITESPACED_NAME</h3>" >>  $CERT_PATH_FILE_PATH;
+}
+create_certifications_pages()
+{
+    CERTS_PAGE_DIR_PATH=$SITE_ROOT_DIR_PATH/certs
+    CERTLISTPAGE_FILE_PATH=$SITE_ROOT_DIR_PATH/certs.md
+    CERTLISTPAGE_FRONT_MATTER="---\n\
 layout: page\n\
 title: Certs\n\
-permalink: /Certs/\n\
----\n" > certs.md
+permalink: /certs/\n\
+---"
 
-echo "NOTICE - THIS PAGE IS SCRIPT GENERATED..." >> certs.md
-echo "AND THE SCRIPT IS A __WIP__ YET :)" >> certs.md
+    #Clean up the certifications directory.
+    rm    -rf $CERTS_PAGE_DIR_PATH;
+    mkdir -p  $CERTS_PAGE_DIR_PATH;
 
-find certs -iname "*.jpg" | sort > temp.txt;
-CURRENT_NAME="INVALID";
-while read line ; do
-    PROVIDER=$(echo $line | cut -d \/ -f 2);
-    CERTNAME=$(echo $line | cut -d \/ -f 3 | cut -d \. -f 1 | cut -d - -f2);
-    CERTURL=$(url-encode "$line");
+    #Change the directory to ease the paths manipulation.
+    cd $CERTIFICATIONS_TARGET_PATH;
 
-    # #Check if the Cert Provider changed 
-    # #and then add a section title for it.
-    if [ $CURRENT_NAME != $PROVIDER ]; then
-        CURRENT_NAME=$PROVIDER;
-        echo -e "\n### $CURRENT_NAME" >> certs.md
-    fi;
-    echo "* [$CERTNAME](../$CERTURL)" >> certs.md
-    
-done < temp.txt;
+    #Save all certification filenames into temp file.
+    find . -iname "*.jpg" | sort > temp.txt;
 
-rm temp.txt
+    #Create the Certification List file.
+    echo -e $CERTLISTPAGE_FRONT_MATTER > $CERTLISTPAGE_FILE_PATH;
+    echo -e "\n\
+THIS IS A VERY BUGGY PAGE GENERATED BY A VERY BUGGY \n\
+SCRIPT - Some stuff works, other not yet... \n\
+Sorry, it'll work soon...\n\n" >> CERTLISTPAGE_FILE_PATH;
+
+    CURRENT_PROVIDER_NAME="INVALID";
+    #Iterate for all certifications filename.
+    while read line ; do
+
+        PROVIDER_NAME=$(echo $line | cut -d \/ -f 2);
+
+        #Remove path.
+        #Remove extension.
+        #Remove the date.
+        CERT_NAME=$(echo $line | cut -d \/ -f 3     \
+                               | cut -d \. -f 1     \
+                               | cut -d _  -f 4-100 );
+        CERT_WHITESPACED_NAME=$(echo $CERT_NAME | sed s/_/" "/g);
+
+        CERT_URL=$(url_encode "$CERT_NAME.html");
+
+        #If the name of provider changed add a heading with its name.
+        if [ "$PROVIDER_NAME" != $CURRENT_PROVIDER_NAME ]; then
+            echo -e "\n"              >> $CERTLISTPAGE_FILE_PATH;
+            echo "### $PROVIDER_NAME" >> $CERTLISTPAGE_FILE_PATH;
+            echo -e "\n"              >> $CERTLISTPAGE_FILE_PATH;
+            CURRENT_PROVIDER_NAME=$PROVIDER_NAME
+        fi
+
+        #Add the link for the certification.
+        echo $CERT_URL
+        echo "* [$CERT_WHITESPACED_NAME]($CERT_URL) " >> $CERTLISTPAGE_FILE_PATH;
+
+        #create the page of the certification.
+        create_certification_page "$line" "$CERT_NAME" "$CERT_WHITESPACED_NAME"
+
+    done < temp.txt;
+
+
+    #Change back the current directory.
+    cd --
+}
+
+clean_certifications_target_dir
+copy_certifications_to_target
+create_certifications_images
+create_certifications_pages

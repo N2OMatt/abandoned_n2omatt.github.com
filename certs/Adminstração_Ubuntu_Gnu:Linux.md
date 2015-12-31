@@ -1,0 +1,5 @@
+---
+layout: default
+assets: /assets/certs/
+---
+!["Certification"]({{ page.assets }}Tux4You/2015_02_19_Adminstra%C3%A7%C3%A3o_Ubuntu_Gnu%3ALinux.jpg)

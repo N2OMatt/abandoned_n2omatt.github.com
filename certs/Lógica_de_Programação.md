@@ -1,0 +1,5 @@
+---
+layout: default
+assets: /assets/certs/
+---
+!["Certification"]({{ page.assets }}Bradesco/2012_10_10_L%C3%B3gica_de_Programa%C3%A7%C3%A3o.jpg)

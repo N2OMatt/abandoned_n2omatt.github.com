@@ -5,7 +5,7 @@
 ## License: GPLv3
 ##
 ## This script will scan the Certification directory and generate
-## for each certification a markdown page in the certs directory.
+## a list of certifications links.
 ##
 
 ################################################################################

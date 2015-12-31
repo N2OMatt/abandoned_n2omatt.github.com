@@ -1,7 +1,7 @@
 #!/bin/bash
 ##
 ## Author:  N2OMatt
-## Date:    12 Dec 2015
+## Date:    Dec 31 2015
 ## License: GPLv3
 ##
 ## This script will generate:

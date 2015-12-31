@@ -30,12 +30,12 @@ create_list()
     #the paths manipulation.
     cd $SOURCE_PATH;
 
-    TEMP_FILENAMES_FILES=$SOURCE_PATH/temp.txt;
+    TEMP_FILENAMES_FILE=$SOURCE_PATH/temp.txt;
     OUTPUT_FILE="certs.md";
 
     #Save all certification filenames into temp file.
     find . -not \( -path '*/\.*' -or -path '*/_*' \) -iname "*.pdf" | \
-    sort > $TEMP_FILENAMES_FILES;
+    sort > $TEMP_FILENAMES_FILE;
 
     cd $SITE_ROOT_PATH;
 
@@ -84,7 +84,10 @@ create_list()
         echo "* [$WHITESPACED_NAME]($CERTIFICATION_URL) "
         echo "* [$WHITESPACED_NAME]($CERTIFICATION_URL) " >> $OUTPUT_FILE;
 
-    done < $TEMP_FILENAMES_FILES;
+    done < $TEMP_FILENAMES_FILE;
+
+    #Remove the temp file.
+    rm $TEMP_FILENAMES_FILE;
 }
 
 ################################################################################

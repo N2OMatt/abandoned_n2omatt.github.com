@@ -1,0 +1,20 @@
+Dev:
+    GINGA:
+    commit: c1845def42c0237a83b9d45431f5e7639692fd99
+    Make all backbuttons in the application chevron only -> WRITE ABOUT IT.
+
+    commit: a37fd8548e836a122e609b855d59439d07ebf25b
+    Continue (and almost finish) the implementation of AssetsLibraryHelper. ->WRITE ABOUT IT
+
+    Continue the implementation of our camera view.
+
+    commit: d1bcfb42ce7d970793e3e0b0cff2b814ba5d3676
+    Make a caterogy to add round corners in image -> WRITE ABOIUT IT.
+
+Study:
+    A little, but a litte out of things that I was implementing...
+    Mainly I was surfing in the Xcode documentation for things that I need
+    and when something out of score but yet interesting appeared I spent
+    some thing on it...
+
+

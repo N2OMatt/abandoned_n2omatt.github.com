@@ -1,0 +1,27 @@
+Dev:
+    GINGA:
+    commit: 204b190f57c888997fd21cada1bcf4de2d18c084
+    Encapsulte the UIApplicationMain in a try block and if any exception
+    was not handled make print a lot of information about what did happned.
+
+    commit:5dd8bae4380eb68484f5f61ff18c1dd30eaaa5eb
+    Correct some bugs:
+        [NSProcessInfo processInfo] isLowPowerModeEnabled] is just iOS 9+.
+
+    commit:065d260e42755c06d364fc51e44778ee14807437
+    Add methods to check the iOSVersion.
+        [[[UIDevice currentDevice] systemVersion] floatValue]
+
+    Start getting the assets of User's libary....
+
+    IMIDIAR:
+    Change all relevant dicts to DictHelper -> Wrote in Dev Jan 05.
+
+Study:
+    GINGA:
+    How go to settings in iOS.
+    ALSettings...
+
+    READ:
+    A lot of articles in wikipedia.
+

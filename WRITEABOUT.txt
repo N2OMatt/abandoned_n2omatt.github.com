@@ -1,0 +1,3 @@
+Linux stat: 
+   update the links in dev and study Jan 5 2016.
+

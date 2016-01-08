@@ -25,6 +25,10 @@ permalink: /certs/
 * [System Design Overview](./System_Design_Overview.html) 
 * [Segurança da Informação](./Seguran%C3%A7a_da_Informa%C3%A7%C3%A3o.html) 
 
+## Couchbase
+
+* [CB020 Fundamentals of NoSQL Data Management](./CB020_Fundamentals_of_NoSQL_Data_Management.html) 
+
 ## Coursera
 
 * [Exploring Beethovens Piano Sonatas](./Exploring_Beethovens_Piano_Sonatas.html) 
@@ -44,6 +48,7 @@ permalink: /certs/
 
 ## iPed
 
+* [VBNet](./VBNet.html) 
 * [Curso de Linux](./Curso_de_Linux.html) 
 
 ## MCP
@@ -114,3 +119,5 @@ permalink: /certs/
 * [Introduction to Linux CentOS 7](./Introduction_to_Linux_CentOS_7.html) 
 * [Basic of Bash Scripting](./Basic_of_Bash_Scripting.html) 
 * [Git Started with GitHub](./Git_Started_with_GitHub.html) 
+* [Learn Socket Programming in C from Scratch](./Learn_Socket_Programming_in_C_from_Scratch.html) 
+* [Game Developers: 5 Quick Legal Tips for Your Indie Studio](./Game_Developers%3A_5_Quick_Legal_Tips_for_Your_Indie_Studio.html) 

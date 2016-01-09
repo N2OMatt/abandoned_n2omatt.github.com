@@ -34,7 +34,8 @@ create_list()
     OUTPUT_FILE="certs.md";
 
     #Save all certification filenames into temp file.
-    find . -not \( -path '*/\.*' -or -path '*/_*' \) -iname "*.pdf" | \
+    find . -not \( -path '*/\.*' -or -path '*/_*' \)                    \
+           \( -iname "*.pdf" -or -iname "*.jpg" -or -iname "*.png" \) | \
     sort > $TEMP_FILENAMES_FILE;
 
     cd $SITE_ROOT_PATH;

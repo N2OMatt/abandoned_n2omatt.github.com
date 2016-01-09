@@ -40,7 +40,10 @@ create_certifications_pages()
     TEMP_FILENAMES_FILE=$IMAGES_PATH/temp.txt;
 
     #Save all certification filenames into temp file.
-    find . -iname "*.jpg" | sort > $TEMP_FILENAMES_FILE;
+    #Save all certification filenames into temp file.
+    find . -not \( -path '*/\.*' -or -path '*/_*' \)                    \
+           \( -iname "*.pdf" -or -iname "*.jpg" -or -iname "*.png" \) | \
+    sort > $TEMP_FILENAMES_FILE;
 
     cd $HTMLS_PATH
 

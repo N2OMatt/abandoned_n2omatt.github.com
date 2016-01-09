@@ -122,3 +122,4 @@ permalink: /certs/
 * [Learn Socket Programming in C from Scratch](./Learn_Socket_Programming_in_C_from_Scratch.html) 
 * [Game Developers: 5 Quick Legal Tips for Your Indie Studio](./Game_Developers%3A_5_Quick_Legal_Tips_for_Your_Indie_Studio.html) 
 * [Learn Objective C Programming for iOS Apps](./Learn_Objective_C_Programming_for_iOS_Apps.html) 
+* [Jailbreaking Strategies and Secrets for iOS8 and Others](./Jailbreaking_Strategies_and_Secrets_for_iOS8_and_Others.html) 

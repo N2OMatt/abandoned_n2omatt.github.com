@@ -8,4 +8,7 @@ Study:
     Disscussed a lot with Ginga guys - Renan and Marcos - about some Autolayout
     issue.
 
+    Finish the OBJC course    - udemy
+    Start the Jailbreak course  - udemy
+
 

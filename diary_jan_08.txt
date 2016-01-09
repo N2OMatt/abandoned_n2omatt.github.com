@@ -1,0 +1,11 @@
+Dev:
+   * Almost - needs to be tested by QA - the implementation of our Custom Camera View - Using AVFoundation.
+   * Almost - needs to be tested by QA - the implementation of our Custom Camera Roll view - Using ALAssetsLibrary.
+   * Start the Crop and Ajustsments view.
+
+
+Study:
+    Disscussed a lot with Ginga guys - Renan and Marcos - about some Autolayout
+    issue.
+
+

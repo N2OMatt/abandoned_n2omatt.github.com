@@ -28,6 +28,7 @@ permalink: /certs/
 ## Couchbase
 
 * [CB020 Fundamentals of NoSQL Data Management](./CB020_Fundamentals_of_NoSQL_Data_Management.html) 
+* [CB030 Essentials of Couchbase NoSQL Technology](./CB030_Essentials_of_Couchbase_NoSQL_Technology.html) 
 
 ## Coursera
 

@@ -18,6 +18,13 @@ layout: default
 
 <!-- ####################################################################### -->
 
+### Work:
+
+* Bass Player - [Demeskalines](https://www.facebook.com/Demeskalines) 
+
+
+<!-- ####################################################################### -->
+
 ### Contact:
 
 * [n2omatt@gmail.com](mailto:n2omatt@gmail.com) (Personal)

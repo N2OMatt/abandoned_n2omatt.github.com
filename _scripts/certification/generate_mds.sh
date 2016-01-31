@@ -55,9 +55,11 @@ create_certifications_pages()
         #Remove path.
         #Remove extension.
         #Remove the date.
-        CERTIFICATION_NAME=$(echo $LINE | cut -d \/ -f 3     \
-                                        | cut -d \. -f 1     \
-                                        | cut -d _  -f 4-100 );
+        CERTIFICATION_FULL_NAME=$(basename "$LINE")
+        CERTIFICATION_NAME="${CERTIFICATION_FULL_NAME%.*}"
+
+        CERTIFICATION_NAME=$(echo $CERTIFICATION_NAME | cut -d \/ -f 3     \
+                                                      | cut -d _  -f 4-100 );
 
         #Get the name of certification (whitespaced).
         WHITESPACED_NAME=$(echo $CERTIFICATION_NAME | sed s/_/" "/g);

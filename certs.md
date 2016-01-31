@@ -59,8 +59,8 @@ permalink: /certs/
 
 ## MCP
 
-* [Software Development Fundamentals](./Software_Development_Fundamentals.html) 
-* [Mobile Development Fundamentals](./Mobile_Development_Fundamentals.html) 
+* [MTA-98-361 Software Development Fundamentals](./MTA-98-361_Software_Development_Fundamentals.html) 
+* [MTA-98-373 Mobile Development Fundamentals](./MTA-98-373_Mobile_Development_Fundamentals.html) 
 
 ## MVA
 

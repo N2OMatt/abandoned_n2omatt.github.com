@@ -98,7 +98,7 @@ permalink: /certs/
 * [Gaming Engines for Windows 8 Jump Start](./Gaming_Engines_for_Windows_8_Jump_Start.html) 
 * [Software Development Fundamentals](./Software_Development_Fundamentals.html) 
 * [C# Fundamentals Development for Absolute Beginners](./C%23_Fundamentals_Development_for_Absolute_Beginners.html) 
-* [Windows 8](./Windows_8.html) 
+* [Windows 8.1 UX Design Jump Start](./Windows_8.1_UX_Design_Jump_Start.html) 
 * [MVA Live Q&A Microsoft Virtualization](./MVA_Live_Q%26A_Microsoft_Virtualization.html) 
 * [MVA Live Q&A System Center 2012](./MVA_Live_Q%26A_System_Center_2012.html) 
 * [MVA Live Q&A Windows Azure](./MVA_Live_Q%26A_Windows_Azure.html) 

@@ -13,8 +13,9 @@ layout: default
 ### Work:
 
 * Hacker - [Amazing Cow](http://www.github.com/amazingcow)
-* CTO / Partner - [Imidiar](http://www.imidiar.com.br)
 * iOS Developer - [Ginga.One](http://www.gingaone.com)
+
+
 
 <!-- ####################################################################### -->
 

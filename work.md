@@ -11,21 +11,26 @@ permalink: /work/
 
 ### Ginga.One
 
-**iOS Developer, Dez 2015 - Current**
+* **iOS Developer, Dez 2015 - Current**
 
 
 <!-- ####################################################################### -->
 
 ### Amazing Cow
 
-**Hacker, June 2015 - Current** 
+* **Hacker, June 2015 - Current** 
 
 <!-- ####################################################################### -->
 
 ### Imidiar
 
-**CTO / Partner,  June 2015 - Jan 2016**
+* **CTO / Partner,  June 2015 - Jan 2016**
 
 <!-- ####################################################################### -->
 
 ### Others
+
+* Microsoft Student Patner, ~2012 - ~2014
+* Eazz, ~2012, ~2013
+* Microsoft Innovation Center, ~2011 - ~2013
+* i4Mobi, ~2010

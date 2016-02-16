@@ -133,3 +133,4 @@ permalink: /certs/
 * [Introductory Course on WatchOS Apps with Swift2 in Xcode7](./Introductory_Course_on_WatchOS_Apps_with_Swift2_in_Xcode7.html) 
 * [SQLite Programming on iPhone for Beginners](./SQLite_Programming_on_iPhone_for_Beginners.html) 
 * [Introduction to Python Programming](./Introduction_to_Python_Programming.html) 
+* [Learn Bash Shell in Linux For Beginners](./Learn_Bash_Shell_in_Linux_For_Beginners.html) 

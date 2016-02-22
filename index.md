@@ -32,7 +32,9 @@ layout: default
 * [n2omatt@amazingcow.com](mailto:n2omatt@amazingcow.com) (Amazing Cow)
 * [mateus.mesquita@gingaone.com](mailto:mateus.mesquita@gingaone.com) (Ginga.One)
 
-* +55 (11) 9-8499-6065 (Personal)
+* +55 (11) 9-8499-6065 (Personal)    
+[<font color="red"><b>DISCLAIMER</b></font>] I <b>DON'T</b> USE WhatsApp for 
+any other purpose other than talk with my mom - Please <b>don't</b> talk to me there. 
 
 <!-- ####################################################################### -->
 

@@ -45,6 +45,8 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+* **Writing Content With Markdown** (PluralSight) - March 2, 2016
 * **LinkedIn Strategy: Optimize Your Profile** (PluralSight) - January 25, 2016
+
 
 <!--COWTODO: * **Learning App Development in iOS 8** (InfiniteSkills) - March 16 ... -->

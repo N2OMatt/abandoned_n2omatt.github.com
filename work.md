@@ -6,17 +6,25 @@ permalink: /work/
 
 ### Intro
 
+<!-- COWTODO: Write the intro -->
+
 
 <!-- ####################################################################### -->
 
 ### Ginga.One
 
+<!-- COWTODO: Write about my job @ Ginga.One -->
+
 * **iOS Developer, Dez 2015 - Current**
+
+
 
 
 <!-- ####################################################################### -->
 
 ### Amazing Cow
+
+<!-- COWTODO: Write about my job @ Amazing Cow -->
 
 * **Hacker, June 2015 - Current**    
 
@@ -44,6 +52,11 @@ to the business plan - as well programmed it alone.
 
 ### Others
 
+<!-- COWTODO: Add link Codeplex  -->
+<!-- COWTODO: Add photos of the lectures  -->
+<!-- COWTODO: Add link MonoGame tutorial  -->
+<!-- COWTODO: Add the windows phone camp (add it to linkedin too)  -->
+
 * **Microsoft Student Patner, ~2012 - ~2014**   
 • Lectured in Windows 8 Camp.   
 • Created a project in CodePlex about Windows 8 Camp.    
@@ -52,9 +65,16 @@ to the business plan - as well programmed it alone.
 • Lectured in App Day @ Puc Minas - Belo Horizonte - MG   
 • Created a tutorial about MonoGame.   
 
+
+<!-- COWTODO: Add links of games  -->
+
 * **Eazz, ~2012, ~2013**  
 
+
+<!-- COWTODO: Add photos  -->
+
 * **Microsoft Innovation Center, ~2011 - ~2013**   
+
 
 * **i4Mobi, ~2010**  
 

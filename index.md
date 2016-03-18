@@ -16,7 +16,6 @@ layout: default
 * iOS Developer - [Ginga.One](http://www.gingaone.com)
 
 
-
 <!-- ####################################################################### -->
 
 ### Music:

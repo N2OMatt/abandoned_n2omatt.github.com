@@ -12,6 +12,7 @@ permalink: /done/
 * **The Hobbit The Desolation of Smaug** (2013) - March 13, 2016.
 * **RoboCop 2** (1990) - March 13, 2016.
 * **Gamer** (2009) - March 11, 2016.
+* **Rise of the Planet of the Apes** (2011) - March 12, 2016.
 * **The Intern** (2015) March 11, 2016.
 * **Gamer** (2009) - March 11, 2016.
 * **The Hobbit An Unexpected Journey** (2012) - March 10, 2016.
@@ -21,11 +22,11 @@ permalink: /done/
 * **Star Wars Episode I The Phantom Menace** (1999) - March 8, 2016.
 * **I Robot** (2004) - March 8, 2016.
 * **Robocop** (1987) - March 7, 2016.
+* **DeadPool** (2016) - March 5, 2016 - (Cinema - Jundiaí Shopping).
 
-<!-- COWTODO: Add the Planeta dos Macacos - March 12 -->
-<!-- COWTODO: Add DeadPoll - March 5 (Cinema)-->
 
-<!-- ####################################################################### -->
+<!-- ##################################################################### -->
+
 
 ### Books (General): 
 

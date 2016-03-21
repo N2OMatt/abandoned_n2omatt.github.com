@@ -7,6 +7,8 @@ permalink: /done/
 <!-- ####################################################################### -->
 
 ### Movies:
+
+* **Robocop 3** (1993) - March 20, 2016
 * **Inglourious Bastards** (2009) - March 20, 2016.
 * **The Hobbit The Battle of the Five Armies** (2014) - March 16, 2016.
 * **The Hobbit The Desolation of Smaug** (2013) - March 13, 2016.

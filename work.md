@@ -55,7 +55,6 @@ to the business plan - as well programmed it alone.
 
 ### Others
 
-<!-- COWTODO: Add link Codeplex  -->
 <!-- COWTODO: Add photos of the lectures  -->
 
 * **Microsoft Student Partner**, ~2012 - ~2014

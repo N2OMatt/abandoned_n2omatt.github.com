@@ -56,7 +56,7 @@ to the business plan - as well programmed it alone.
 <!-- COWTODO: Add photos of the lectures  -->
 <!-- COWTODO: Add link MonoGame tutorial  -->
 
-* **Microsoft Student Patner, ~2012 - ~2014**
+* **Microsoft Student Patner**, ~2012 - ~2014
 • Lectured in Windows 8 Camp.
 • Lectured in Windows Phone Camp.
 • Created a project in CodePlex about Windows 8 Camp.
@@ -73,7 +73,8 @@ to the business plan - as well programmed it alone.
 
 <!-- COWTODO: Add photos  -->
 
-* **Microsoft Innovation Center, ~2011 - ~2013**
+* **Microsoft Innovation Center**, ~2011 - ~2013
+[Some Photos]()
 
 
 * **i4Mobi, ~2010**

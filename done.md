@@ -8,6 +8,7 @@ permalink: /done/
 
 ### Movies:
 
+* **Rush** (2013) - March 24, 2016.
 * **The Lord of the Rings The Fellowship of the Ring** (2001) - March 20, 2016.
 * **Robocop 3** (1993) - March 20, 2016.
 * **Inglourious Bastards** (2009) - March 20, 2016.

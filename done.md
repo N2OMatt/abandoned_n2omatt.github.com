@@ -37,6 +37,7 @@ permalink: /done/
 
 ### Books (General): 
 
+* **Édipo Rei**, Sófoles (857232488-7) - March 16, 2016 to March 25, 2016.
 * **Arte Poetica**, Aristoteles (857232610-3)- March 16, 2016 to March 24, 2016.
 * **Sêneca**, Luiz Feracine (978-85-7635-906-7) - March 15, 2016 to March 22, 2016.
 * **Príncipe da Pérsia**, Jordan Mechner (978-85-01-08638-9) - March 21, 2016.

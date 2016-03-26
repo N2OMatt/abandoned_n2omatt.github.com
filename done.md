@@ -56,6 +56,10 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016    
+ • Kadri Ugand   
+ • Alexrande Chofi   
+ • Thais Weiller   
 * **RetroAhoy: Doom** - (RetroAhoy - 
 [Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
 * **RetroAhoy: Carmageddon** - (RetroAhoy - 

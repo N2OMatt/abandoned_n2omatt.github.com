@@ -8,6 +8,9 @@ permalink: /done/
 
 ### Movies:
 
+* **RoboCop** (2014) - March 24, 2016.
+* **The Lord of the Rings The Return of the King** (2003) - March 24, 2016.
+* **The Lord of the Rings The Two Towers (2002)** - March 24, 2016.
 * **Rush** (2013) - March 24, 2016.
 * **The Lord of the Rings The Fellowship of the Ring** (2001) - March 20, 2016.
 * **Robocop 3** (1993) - March 20, 2016.

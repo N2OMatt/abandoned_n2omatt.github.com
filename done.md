@@ -56,14 +56,22 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+* **Handmade Quake 1.3 - Replacing strcmp and atoi** - (Philip Buuck  - 
+[Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
+* **Handmade Quake 1.2 - Parsing the Command Line** - (Philip Buuck - 
+[Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016   
+   
+
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016    
  • Kadri Ugand   
  • Alexrande Chofi   
  • Thais Weiller   
+
 * **RetroAhoy: Doom** - (RetroAhoy - 
 [Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
 * **RetroAhoy: Carmageddon** - (RetroAhoy - 
 [Youtube](https://www.youtube.com/watch?v=srLNtnyGy_U)) - March 26, 2016.
+
 * **Writing Content With Markdown** (PluralSight) - March 2, 2016
 * **LinkedIn Strategy: Optimize Your Profile** (PluralSight) - January 25, 2016
 

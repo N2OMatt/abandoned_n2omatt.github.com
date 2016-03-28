@@ -56,6 +56,22 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016    
+ • Marientina Gotsis   
+ • Bruno Campagnolo   
+ • Thiago Bertoni  
+
+* **Easter Eggs in Video Games** - (RetroAhoy - 
+[Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
+* **Open World Origins** - (RetroAhoy - 
+[Youtube](https://www.youtube.com/watch?v=EdV_2svrDVc)) - March 27, 2016.
+* **CRASH: The Year Video Games Died** - (RetroAhoy - 
+[Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)) - March 27, 2016.
+* **RetroAhoy: Wolfenstein 3D** - (RetroAhoy - 
+[Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)) - March 27, 2016.
+
+* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** - (Philip Buuck  - 
+[Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) -  March 27, 2016   
 * **Handmade Quake 1.3 - Replacing strcmp and atoi** - (Philip Buuck  - 
 [Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
 * **Handmade Quake 1.2 - Parsing the Command Line** - (Philip Buuck - 

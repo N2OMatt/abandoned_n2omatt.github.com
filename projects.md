@@ -126,8 +126,7 @@ and C++) - So there are very nasty things in this project like:
 * I did not comment very well.
 * My autolayout is far from the best.
 
-Fortunately I made it and did enter in Ginga.One - Where I'm very happy and 
-glad to work now ;D
+Fortunately I made it and did enter in Ginga.One.
 
 <!-- COWTODO: Add the link -->
 So here is the link for the project: [The Incredible Test]()

@@ -13,8 +13,6 @@ layout: default
 ### Work:
 
 * Hacker - [Amazing Cow](http://www.github.com/amazingcow)
-* iOS Developer - [Ginga.One](http://www.gingaone.com)
-
 
 <!-- ####################################################################### -->
 
@@ -29,7 +27,6 @@ layout: default
 
 * [n2omatt@gmail.com](mailto:n2omatt@gmail.com) (Personal)
 * [n2omatt@amazingcow.com](mailto:n2omatt@amazingcow.com) (Amazing Cow)
-* [mateus.mesquita@gingaone.com](mailto:mateus.mesquita@gingaone.com) (Ginga.One)
 
 * +55 (11) 9-8499-6065 (Personal)    
 [<font color="red"><b>DISCLAIMER</b></font>] I <b>DON'T</b> USE WhatsApp for 

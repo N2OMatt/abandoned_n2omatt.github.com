@@ -16,7 +16,7 @@ permalink: /work/
 
 <!-- COWTODO: Write about my job @ Ginga.One -->
 
-* **iOS Developer, December 2015 - Current**
+* **iOS Developer, December 2015 - March 2016**
 
 
 

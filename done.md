@@ -8,6 +8,7 @@ permalink: /done/
 
 ### Movies:
 
+* **A Beautiful Mind** (2001) - March 28, 2016.
 * **RoboCop** (2014) - March 24, 2016.
 * **The Lord of the Rings The Return of the King** (2003) - March 24, 2016.
 * **The Lord of the Rings The Two Towers (2002)** - March 24, 2016.

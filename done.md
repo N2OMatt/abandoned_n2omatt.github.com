@@ -38,6 +38,7 @@ permalink: /done/
 
 ### Books (General): 
 
+* **Antígona**, Sófoles (857232488-7) - March 25, 2016 to March 29, 2016.
 * **Édipo Rei**, Sófoles (857232488-7) - March 16, 2016 to March 25, 2016.
 * **Arte Poetica**, Aristoteles (857232610-3)- March 16, 2016 to March 24, 2016.
 * **Sêneca**, Luiz Feracine (978-85-7635-906-7) - March 15, 2016 to March 22, 2016.
@@ -56,6 +57,10 @@ permalink: /done/
 <!-- ####################################################################### -->
 
 ### Lectures (Online): 
+
+<!-- COWTODO: Add the lecturers' names -->
+
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016    
 
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016    
  • Marientina Gotsis   

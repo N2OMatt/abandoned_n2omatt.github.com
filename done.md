@@ -58,8 +58,7 @@ permalink: /done/
 
 ### Lectures (Online): 
 
-
-<!-- * **Linux Systems Programming** (PluralSight) - March 21, 2016 to  -->
+* **Linux Systems Programming** (PluralSight) - March 21, 2016 to March 30, 2016.
 
 <!-- COWTODO: Add the lecturers' names -->
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016    

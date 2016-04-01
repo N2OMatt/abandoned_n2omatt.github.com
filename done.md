@@ -58,6 +58,20 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+* **Handmade Quake 2.3 - Timing the Game Loop** - (Philip Buuck - 
+[Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.
+* **Handmade Quake 2.2 - Building the Game Loop** - (Philip Buuck - 
+[Youtube](https://www.youtube.com/watch?v=bAApnxQf2hI)) - April 1, 2016.
+* **Handmade Quake 2.1 - Creating a Window** - (Philip Buuck - 
+[Youtube](https://www.youtube.com/watch?v=mkDsvnKq2p0)) - April 1, 2016.
+* **Handmade Quake 1.5 - const, and the Module 1 Wrapup** -    
+(Philip Buuck - [Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)) - April 1, 2016.
+* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -    
+(Philip Buuck - [Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
+
+* **Handmade Quake 1.3 - Replacing strcmp and atoi** - (Philip Buuck  - 
+[Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
+
 * **Linux Systems Programming** (PluralSight) - March 21, 2016 to March 30, 2016.
 
 <!-- COWTODO: Add the lecturers' names -->
@@ -98,5 +112,3 @@ permalink: /done/
 * **Writing Content With Markdown** (PluralSight) - March 2, 2016
 * **LinkedIn Strategy: Optimize Your Profile** (PluralSight) - January 25, 2016
 
-
-<!--COWTODO: * **Learning App Development in iOS 8** (InfiniteSkills) - March 16 ... -->

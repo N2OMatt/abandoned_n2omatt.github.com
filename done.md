@@ -38,6 +38,9 @@ permalink: /done/
 
 ### Books (General): 
 
+* **Apologia de Sócrates**, Platão (85-00-80119-9) - April 03, 2016 to ...
+
+
 * **Antígona**, Sófoles (857232488-7) - March 25, 2016 to March 29, 2016.
 * **Édipo Rei**, Sófoles (857232488-7) - March 24, 2016 to March 25, 2016.
 * **Arte Poetica**, Aristoteles (857232610-3)- March 16, 2016 to March 24, 2016.

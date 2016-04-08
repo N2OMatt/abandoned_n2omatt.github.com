@@ -55,7 +55,9 @@ permalink: /done/
 <!-- ####################################################################### -->
 
 ### Books (Technical):
-* **SDL Game Development**, Shaun Mitchell (978-1-84969-682-1) - March 31 2016 to ...
+* **GNU Coding Standards**, Richard Stallman 
+([link](http://www.gnu.org/prep/standards/)) - April 6, 2016 to April 8, 2016.
+* **SDL Game Development**, Shaun Mitchell (978-1-84969-682-1) - March 31, 2016 to ...
 
 <!-- ####################################################################### -->
 

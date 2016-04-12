@@ -8,6 +8,8 @@ permalink: /done/
 
 ### Movies:
 
+* **Star Wars Episode VI Return of the Jedi**          (1983) - April 12, 2016.
+* **Star Wars Episode V The Empire Strikes Back**      (1980) - April 10, 2016.
 * **A Beautiful Mind**                                 (2001) - March 28, 2016.
 * **RoboCop**                                          (2014) - March 24, 2016.
 * **The Lord of the Rings The Return of the King**     (2003) - March 24, 2016.

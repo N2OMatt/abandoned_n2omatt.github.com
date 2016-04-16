@@ -8,6 +8,7 @@ permalink: /done/
 
 ### Movies:
 
+* **WarGames**                                         (1983) - April 14, 2016.
 * **Star Wars Episode VI Return of the Jedi**          (1983) - April 12, 2016.
 * **Star Wars Episode V The Empire Strikes Back**      (1980) - April 10, 2016.
 * **A Beautiful Mind**                                 (2001) - March 28, 2016.

@@ -67,57 +67,50 @@ permalink: /done/
 
 ### Lectures (Online): 
 
-* **Handmade Quake 2.3 - Timing the Game Loop** - (Philip Buuck - 
-[Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.
-* **Handmade Quake 2.2 - Building the Game Loop** - (Philip Buuck - 
-[Youtube](https://www.youtube.com/watch?v=bAApnxQf2hI)) - April 1, 2016.
-* **Handmade Quake 2.1 - Creating a Window** - (Philip Buuck - 
-[Youtube](https://www.youtube.com/watch?v=mkDsvnKq2p0)) - April 1, 2016.
-* **Handmade Quake 1.5 - const, and the Module 1 Wrapup** -    
-(Philip Buuck - [Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)) - April 1, 2016.
-* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -    
-(Philip Buuck - [Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
+Handmade Quake:
 
-* **Handmade Quake 1.3 - Replacing strcmp and atoi** - (Philip Buuck  - 
-[Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
+* **Handmade Quake 2.3 - Timing the Game Loop** -
+([Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.
+* **Handmade Quake 2.2 - Building the Game Loop** - 
+([Youtube](https://www.youtube.com/watch?v=bAApnxQf2hI)) - April 1, 2016.
+* **Handmade Quake 2.1 - Creating a Window** - 
+([Youtube](https://www.youtube.com/watch?v=mkDsvnKq2p0)) - April 1, 2016.
+* **Handmade Quake 1.5 - const, and the Module 1 Wrapup** - 
+([Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)) - April 1, 2016.
+* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -
+([Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
+* **Handmade Quake 1.3 - Replacing strcmp and atoi** -
+([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
+* **Handmade Quake 1.2 - Parsing the Command Line** - 
+([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016   
+
+
+GDXBrasil:
+
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016    
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016    
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016    
+
+
+Retro Ahoy:
+
+* **Easter Eggs in Video Games** - 
+([Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
+* **Open World Origins** - 
+([Youtube](https://www.youtube.com/watch?v=EdV_2svrDVc)) - March 27, 2016.
+* **CRASH: The Year Video Games Died** -
+([Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)) - March 27, 2016.
+* **RetroAhoy: Wolfenstein 3D** - 
+([Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)) - March 27, 2016.
+* **RetroAhoy: Doom** - 
+([Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
+* **RetroAhoy: Carmageddon** - 
+([Youtube](https://www.youtube.com/watch?v=srLNtnyGy_U)) - March 26, 2016.
+
+
+Others: 
 
 * **Linux Systems Programming** (PluralSight) - March 21, 2016 to March 30, 2016.
-
-<!-- COWTODO: Add the lecturers' names -->
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016    
-
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016    
- • Marientina Gotsis   
- • Bruno Campagnolo   
- • Thiago Bertoni  
-
-* **Easter Eggs in Video Games** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
-* **Open World Origins** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=EdV_2svrDVc)) - March 27, 2016.
-* **CRASH: The Year Video Games Died** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)) - March 27, 2016.
-* **RetroAhoy: Wolfenstein 3D** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)) - March 27, 2016.
-
-* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** - (Philip Buuck  - 
-[Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) -  March 27, 2016   
-* **Handmade Quake 1.3 - Replacing strcmp and atoi** - (Philip Buuck  - 
-[Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
-* **Handmade Quake 1.2 - Parsing the Command Line** - (Philip Buuck - 
-[Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016   
-   
-
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016    
- • Kadri Ugand   
- • Alexrande Chofi   
- • Thais Weiller   
-
-* **RetroAhoy: Doom** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
-* **RetroAhoy: Carmageddon** - (RetroAhoy - 
-[Youtube](https://www.youtube.com/watch?v=srLNtnyGy_U)) - March 26, 2016.
-
 * **Writing Content With Markdown** (PluralSight) - March 2, 2016
 * **LinkedIn Strategy: Optimize Your Profile** (PluralSight) - January 25, 2016
 

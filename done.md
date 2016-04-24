@@ -94,6 +94,29 @@ GDXBrasil:
 
 Retro Ahoy:
 
+* **Nuclear Fruit - How the Cold War Shaped Video Games** 
+([Youtube](https://www.youtube.com/watch?=15dxuAbTC0A)) - April 24
+
+* **A Brief History of Gore** - 
+([Youtube](https://www.youtube.com/watch?=NRXigbgqtOc)) - April 23
+
+* **Ant Attack** - 
+([Youtube](https://www.youtube.com/watch?=vzRb4v4EhyOU)) - April 22
+* **Dizzy** - 
+([Youtube](https://www.youtube.com/watch?=vlZglToISw14)) - April 22
+* **Galaxian** - 
+([Youtube](https://www.youtube.com/watch?=vxEaqhhjqxLA)) - April 22
+* **Lemmings** - 
+([Youtube](https://www.youtube.com/watch?=vfbxyqeIylHE)) - April 22
+* **Pinball Dreams** - 
+([Youtube](https://www.youtube.com/watch?=vGVCrXJVqGps)) - April 22
+* **Road Rash** - 
+([Youtube](https://www.youtube.com/watch?=vnmbZ1MeCU6U)) - April 22
+* **Syndicate** - 
+([Youtube](https://www.youtube.com/watch?=vTZviqVDyC-U)) - April 22
+* **What Did We Learn This Generation**
+([Youtube](https://www.youtube.com/watch?=ki8CvB5hQu4)) - April 22
+
 * **Easter Eggs in Video Games** - 
 ([Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
 * **Open World Origins** - 

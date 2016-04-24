@@ -70,7 +70,7 @@ permalink: /done/
 Handmade Quake:
 
 * **Handmade Quake 2.4 - More Timing** - 
-([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)) - April 1, 2016.
+([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)) - April 22, 2016.
 
 * **Handmade Quake 2.3 - Timing the Game Loop** -
 ([Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.

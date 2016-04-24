@@ -8,6 +8,8 @@ permalink: /done/
 
 ### Movies:
 
+* **Gladiator**                                        (2000) - April 24, 2016.
+* **Independence Day**                                 (1996) - April 22, 2016.
 * **WarGames**                                         (1983) - April 14, 2016.
 * **Star Wars Episode VI Return of the Jedi**          (1983) - April 12, 2016.
 * **Star Wars Episode V The Empire Strikes Back**      (1980) - April 10, 2016.
@@ -82,27 +84,33 @@ Handmade Quake:
 ([Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)) - April 1, 2016.
 * **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -
 ([Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
-* **Handmade Quake 1.3 - Replacing strcmp and atoi** -
 
-([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
+* **Handmade Quake 1.3 - Replacing strcmp and atoi** -
+([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016
 * **Handmade Quake 1.2 - Parsing the Command Line** - 
-([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016   
+([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016
 
 
 GDXBrasil:
 
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016    
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016    
-* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016    
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016
+* **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016
 
 
 Retro Ahoy:
 
+<hr>
+
 * **Nuclear Fruit - How the Cold War Shaped Video Games** 
 ([Youtube](https://www.youtube.com/watch?=15dxuAbTC0A)) - April 24
 
+<hr>
+
 * **A Brief History of Gore** - 
 ([Youtube](https://www.youtube.com/watch?=NRXigbgqtOc)) - April 23
+
+<hr>
 
 * **Ant Attack** - 
 ([Youtube](https://www.youtube.com/watch?=vzRb4v4EhyOU)) - April 22
@@ -121,6 +129,8 @@ Retro Ahoy:
 * **What Did We Learn This Generation**
 ([Youtube](https://www.youtube.com/watch?=ki8CvB5hQu4)) - April 22
 
+<hr>
+
 * **Easter Eggs in Video Games** - 
 ([Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
 * **Open World Origins** - 
@@ -129,6 +139,9 @@ Retro Ahoy:
 ([Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)) - March 27, 2016.
 * **RetroAhoy: Wolfenstein 3D** - 
 ([Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)) - March 27, 2016.
+
+
+
 * **RetroAhoy: Doom** - 
 ([Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
 * **RetroAhoy: Carmageddon** - 

@@ -69,6 +69,9 @@ permalink: /done/
 
 Handmade Quake:
 
+* **Handmade Quake 2.4 - More Timing** - 
+([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)) - April 1, 2016.
+
 * **Handmade Quake 2.3 - Timing the Game Loop** -
 ([Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.
 * **Handmade Quake 2.2 - Building the Game Loop** - 
@@ -80,6 +83,7 @@ Handmade Quake:
 * **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -
 ([Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
 * **Handmade Quake 1.3 - Replacing strcmp and atoi** -
+
 ([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016   
 * **Handmade Quake 1.2 - Parsing the Command Line** - 
 ([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016   

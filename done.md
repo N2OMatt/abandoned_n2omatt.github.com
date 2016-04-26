@@ -7,7 +7,8 @@ permalink: /done/
 <!-- ####################################################################### -->
 
 ### Movies:
-
+* **Minority Report**                                  (2002) - April 25, 2016. 
+* **I Am Legend**                                      (2007) - April 25, 2016.
 * **Gladiator**                                        (2000) - April 24, 2016.
 * **Independence Day**                                 (1996) - April 22, 2016.
 * **WarGames**                                         (1983) - April 14, 2016.

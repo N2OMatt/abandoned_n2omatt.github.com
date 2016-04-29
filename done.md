@@ -75,6 +75,12 @@ permalink: /done/
 ### Lectures (Online): 
 
 Handmade Quake:
+* **Handmade Quake 3.1 - Intro to Quake Graphics** 
+([Youtube](https://www.youtube.com/watch?v=1Q6Pa2WnJTk)) - April 28, 2016.
+* **Handmade Quake 2.6 - Quake Timesteps vs. Ours** 
+([Youtube](https://www.youtube.com/watch?v=c_-3jbl-IAU)) - April 28, 2016.
+* **Handmade Quake 2.5 - Timesteps and Platform Independence** 
+([Youtube](https://www.youtube.com/watch?v=LrmWxqB7Nhk)) - April 28, 2016.
 
 * **Handmade Quake 2.4 - More Timing** - 
 ([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)) - April 22, 2016.

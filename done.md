@@ -8,6 +8,7 @@ permalink: /done/
 
 ### Movies:
 
+* **Tron Legacy**                                      (2010) - April 27, 2016.
 * **Signs**                                            (2002) - April 26, 2016.
 * **Vanilla Sky**                                      (2001) - April 26, 2016.
 * **Minority Report**                                  (2002) - April 25, 2016. 

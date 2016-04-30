@@ -74,92 +74,77 @@ permalink: /done/
 
 ### Lectures (Online): 
 
-Handmade Quake:
-* **Handmade Quake 3.1 - Intro to Quake Graphics** 
-([Youtube](https://www.youtube.com/watch?v=1Q6Pa2WnJTk)) - April 28, 2016.
-* **Handmade Quake 2.6 - Quake Timesteps vs. Ours** 
-([Youtube](https://www.youtube.com/watch?v=c_-3jbl-IAU)) - April 28, 2016.
-* **Handmade Quake 2.5 - Timesteps and Platform Independence** 
-([Youtube](https://www.youtube.com/watch?v=LrmWxqB7Nhk)) - April 28, 2016.
+#### Handmade Quake:
 
-* **Handmade Quake 2.4 - More Timing** - 
-([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)) - April 22, 2016.
+April 28, 2016
 
-* **Handmade Quake 2.3 - Timing the Game Loop** -
-([Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)) - April 1, 2016.
-* **Handmade Quake 2.2 - Building the Game Loop** - 
-([Youtube](https://www.youtube.com/watch?v=bAApnxQf2hI)) - April 1, 2016.
-* **Handmade Quake 2.1 - Creating a Window** - 
-([Youtube](https://www.youtube.com/watch?v=mkDsvnKq2p0)) - April 1, 2016.
-* **Handmade Quake 1.5 - const, and the Module 1 Wrapup** - 
-([Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)) - April 1, 2016.
-* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** -
-([Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)) - April 1, 2016.
+* **Handmade Quake 3.1 - Intro to Quake Graphics**             - ([Youtube](https://www.youtube.com/watch?v=1Q6Pa2WnJTk)).
+* **Handmade Quake 2.6 - Quake Timesteps vs. Ours**            - ([Youtube](https://www.youtube.com/watch?v=c_-3jbl-IAU)).
+* **Handmade Quake 2.5 - Timesteps and Platform Independence** - ([Youtube](https://www.youtube.com/watch?v=LrmWxqB7Nhk)).
 
-* **Handmade Quake 1.3 - Replacing strcmp and atoi** -
-([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)) -  March 27, 2016
-* **Handmade Quake 1.2 - Parsing the Command Line** - 
-([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)) -  March 27, 2016
+April 22, 2016.
+
+* **Handmade Quake 2.4 - More Timing** - ([Youtube](https://www.youtube.com/watch?v=x7IcLUkteYE)).
+
+April 1, 2016
+
+* **Handmade Quake 2.3 - Timing the Game Loop**                      - ([Youtube](https://www.youtube.com/watch?v=EyUM1dTUCyQ)).
+* **Handmade Quake 2.2 - Building the Game Loop**                    - ([Youtube](https://www.youtube.com/watch?v=bAApnxQf2hI)).
+* **Handmade Quake 2.1 - Creating a Window**                         - ([Youtube](https://www.youtube.com/watch?v=mkDsvnKq2p0)).
+* **Handmade Quake 1.5 - const, and the Module 1 Wrapup**            - ([Youtube](https://www.youtube.com/watch?v=m8oHcJAB-xU)).
+* **Handmade Quake 1.4 - Adding Source Code, Headers, and more STL** - ([Youtube](https://www.youtube.com/watch?v=piQQnWmHdCA)).
+
+March 27, 2016
+
+* **Handmade Quake 1.3 - Replacing strcmp and atoi** - ([Youtube](https://www.youtube.com/watch?v=_MAbRVrfkdU)).
+* **Handmade Quake 1.2 - Parsing the Command Line**  - ([Youtube](https://www.youtube.com/watch?v=TdUszxsJ98A)).
 
 
-GDXBrasil:
+#### GDXBrasil:
 
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 28, 2016
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 27, 2016
 * **GDXBrasil 2016** - ([Link](http://www.gxbrazil.com/)) - March 26, 2016
 
 
-Retro Ahoy:
+#### Retro Ahoy:
 
-<hr>
+April 24, 2016
 
-* **Nuclear Fruit - How the Cold War Shaped Video Games** 
-([Youtube](https://www.youtube.com/watch?=15dxuAbTC0A)) - April 24
+* **Nuclear Fruit - How the Cold War Shaped Video Games** - ([Youtube](https://www.youtube.com/watch?=15dxuAbTC0A)).
 
-<hr>
+April 23, 2016
 
-* **A Brief History of Gore** - 
-([Youtube](https://www.youtube.com/watch?=NRXigbgqtOc)) - April 23
-
-<hr>
-
-* **Ant Attack** - 
-([Youtube](https://www.youtube.com/watch?=vzRb4v4EhyOU)) - April 22
-* **Dizzy** - 
-([Youtube](https://www.youtube.com/watch?=vlZglToISw14)) - April 22
-* **Galaxian** - 
-([Youtube](https://www.youtube.com/watch?=vxEaqhhjqxLA)) - April 22
-* **Lemmings** - 
-([Youtube](https://www.youtube.com/watch?=vfbxyqeIylHE)) - April 22
-* **Pinball Dreams** - 
-([Youtube](https://www.youtube.com/watch?=vGVCrXJVqGps)) - April 22
-* **Road Rash** - 
-([Youtube](https://www.youtube.com/watch?=vnmbZ1MeCU6U)) - April 22
-* **Syndicate** - 
-([Youtube](https://www.youtube.com/watch?=vTZviqVDyC-U)) - April 22
-* **What Did We Learn This Generation**
-([Youtube](https://www.youtube.com/watch?=ki8CvB5hQu4)) - April 22
-
-<hr>
-
-* **Easter Eggs in Video Games** - 
-([Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)) - March 27, 2016.
-* **Open World Origins** - 
-([Youtube](https://www.youtube.com/watch?v=EdV_2svrDVc)) - March 27, 2016.
-* **CRASH: The Year Video Games Died** -
-([Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)) - March 27, 2016.
-* **RetroAhoy: Wolfenstein 3D** - 
-([Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)) - March 27, 2016.
+* **A Brief History of Gore** - ([Youtube](https://www.youtube.com/watch?=NRXigbgqtOc)).
 
 
+April 22, 2016
 
-* **RetroAhoy: Doom** - 
-([Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)) - March 26, 2016.
-* **RetroAhoy: Carmageddon** - 
-([Youtube](https://www.youtube.com/watch?v=srLNtnyGy_U)) - March 26, 2016.
+* **Ant Attack**                        - ([Youtube](https://www.youtube.com/watch?=vzRb4v4EhyOU)).
+* **Dizzy**                             - ([Youtube](https://www.youtube.com/watch?=vlZglToISw14)).
+* **Galaxian**                          - ([Youtube](https://www.youtube.com/watch?=vxEaqhhjqxLA)).
+* **Lemmings**                          - ([Youtube](https://www.youtube.com/watch?=vfbxyqeIylHE)).
+* **Pinball Dreams**                    - ([Youtube](https://www.youtube.com/watch?=vGVCrXJVqGps)).
+* **Road Rash**                         - ([Youtube](https://www.youtube.com/watch?=vnmbZ1MeCU6U)).
+* **Syndicate**                         - ([Youtube](https://www.youtube.com/watch?=vTZviqVDyC-U)).
+* **What Did We Learn This Generation** - ([Youtube](https://www.youtube.com/watch?=ki8CvB5hQu4)) .
 
 
-Others: 
+March 27, 2016.
+
+* **Easter Eggs in Video Games**       - ([Youtube](https://www.youtube.com/watch?v=Q6Sv4FVDnXQ)).
+* **Open World Origins**               - ([Youtube](https://www.youtube.com/watch?v=EdV_2svrDVc)).
+* **CRASH: The Year Video Games Died** - ([Youtube](https://www.youtube.com/watch?v=ikIeaCE3Ljc)).
+* **RetroAhoy: Wolfenstein 3D**        - ([Youtube](https://www.youtube.com/watch?v=BSb87DC-PtA)).
+
+
+March 26, 2016.
+
+* **RetroAhoy: Doom**        - ([Youtube](https://www.youtube.com/watch?v=6A4-SVUHQYI)).
+* **RetroAhoy: Carmageddon** - ([Youtube](https://www.youtube.com/watch?v=srLNtnyGy_U)).
+
+
+#### Others: 
 
 * **Linux Systems Programming** (PluralSight) - March 21, 2016 to March 30, 2016.
 * **Writing Content With Markdown** (PluralSight) - March 2, 2016

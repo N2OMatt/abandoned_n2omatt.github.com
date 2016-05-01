@@ -76,6 +76,10 @@ permalink: /done/
 
 #### Handmade Quake:
 
+April 30, 2016
+
+* **Handmade Quake 3.2 - Creating and Drawing into a Win32 Window** - ([Youtube](https://www.youtube.com/watch?v=QkKbBEVsiBs)).
+
 April 28, 2016
 
 * **Handmade Quake 3.1 - Intro to Quake Graphics**             - ([Youtube](https://www.youtube.com/watch?v=1Q6Pa2WnJTk)).

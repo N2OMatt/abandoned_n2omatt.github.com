@@ -76,6 +76,11 @@ permalink: /done/
 
 #### Handmade Quake:
 
+May 1, 2016
+
+* **Should You Learn to Use the Vulkan API**  - ([Youtube](https://www.youtube.com/watch?v=Ru_vjeun4gY)). 
+* **How Do I Get Those Visual Studio Colors** - ([Youtube](https://www.youtube.com/watch?v=KyvwuEqEAQ4)). 
+
 April 30, 2016
 
 * **Handmade Quake 3.2 - Creating and Drawing into a Win32 Window** - ([Youtube](https://www.youtube.com/watch?v=QkKbBEVsiBs)).

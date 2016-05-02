@@ -8,6 +8,7 @@ permalink: /done/
 
 ### Movies:
 
+* **Goodfellas**                                       (1990) - May   01, 2016.
 * **Tron Legacy**                                      (2010) - April 27, 2016.
 * **Signs**                                            (2002) - April 26, 2016.
 * **Vanilla Sky**                                      (2001) - April 26, 2016.
@@ -119,6 +120,9 @@ March 27, 2016
 
 
 #### Retro Ahoy:
+
+May 1, 2016
+* **A Brief History of Piracy** - ([Youtube](https://www.youtube.com/watch?=-EoQX7227Z4)).
 
 April 24, 2016
 

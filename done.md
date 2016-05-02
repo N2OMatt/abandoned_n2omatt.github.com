@@ -122,7 +122,10 @@ March 27, 2016
 #### Retro Ahoy:
 
 May 1, 2016
-* **A Brief History of Piracy** - ([Youtube](https://www.youtube.com/watch?=-EoQX7227Z4)).
+
+* **A Brief History of Piracy**     - ([Youtube](https://www.youtube.com/watch?=-EoQX7227Z4)).
+* **A Brief History of Graphics**   - ([Youtube](https://www.youtube.com/watch?=-QyjyWUrHsFc)).
+* **A Brief History of Video Games* - ([Youtube](https://www.youtube.com/watch?=-GoyGlyrYb9c)).
 
 April 24, 2016
 

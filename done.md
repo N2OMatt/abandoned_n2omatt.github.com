@@ -75,6 +75,14 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+#### Cppcon
+
+May 4, 2016
+
+* **Herb Sutter 'Writing Good C++14... By Default'** - ([Youtube](https://www.youtube.com/watch?v=hEx5DNLWGgA))
+* **Sean Parent 'Better Code - Data Structures'**    - ([Youtube](https://www.youtube.com/watch?v=sWgDk-o-6ZE))
+
+
 #### Handmade Quake:
 
 May 3, 2016

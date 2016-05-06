@@ -77,6 +77,11 @@ permalink: /done/
 
 #### Cppcon
 
+May 5, 2016
+
+* **Eric Niebler 'Ranges for the Standard Library'**                                   -  ([Youtube](https://www.youtube.com/watch?v=mFUXNMfaciE))
+* **Vittorio Romeo “Implementation of a component-based entity system in modern C++”** -  ([Youtube](https://www.youtube.com/watch?v=NTWSeQtHZ9M))
+
 May 4, 2016
 
 * **Herb Sutter 'Writing Good C++14... By Default'** - ([Youtube](https://www.youtube.com/watch?v=hEx5DNLWGgA))
@@ -139,9 +144,9 @@ March 27, 2016
 
 May 1, 2016
 
-* **A Brief History of Piracy**     - ([Youtube](https://www.youtube.com/watch?=-EoQX7227Z4)).
-* **A Brief History of Graphics**   - ([Youtube](https://www.youtube.com/watch?=-QyjyWUrHsFc)).
-* **A Brief History of Video Games* - ([Youtube](https://www.youtube.com/watch?=-GoyGlyrYb9c)).
+* **A Brief History of Piracy**      - ([Youtube](https://www.youtube.com/watch?=-EoQX7227Z4)).
+* **A Brief History of Graphics**    - ([Youtube](https://www.youtube.com/watch?=-QyjyWUrHsFc)).
+* **A Brief History of Video Games** - ([Youtube](https://www.youtube.com/watch?=-GoyGlyrYb9c)).
 
 April 24, 2016
 

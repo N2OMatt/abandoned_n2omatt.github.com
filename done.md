@@ -92,6 +92,10 @@ May 4, 2016
 
 #### Handmade Quake:
 
+May 15, 2016 
+
+* **Handmade Quake 4.3 - Loading Quake's Pak Files** - ([Youtube](https://www.youtube.com/watch?v=pkfJzh2UYMI))
+
 May 3, 2016
 
 * **Handmade Quake 4.3 - Loading Quake's Pak Files** - ([Youtube](https://www.youtube.com/watch?v=pkfJzh2UYMI))

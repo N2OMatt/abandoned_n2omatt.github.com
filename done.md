@@ -8,8 +8,9 @@ permalink: /done/
 
 ### Movies:
 
+* **Up**                                               (2009) - May   22, 2016.
 * **The Lovely Bones**                                 (2009) - May   08, 2016.
-* **Catch Me If You Can**                              (2002)  - May   07, 2016.
+* **Catch Me If You Can**                              (2002) - May   07, 2016.
 * **Goodfellas**                                       (1990) - May   01, 2016.
 * **Tron Legacy**                                      (2010) - April 27, 2016.
 * **Signs**                                            (2002) - April 26, 2016.
@@ -91,6 +92,12 @@ May 4, 2016
 
 
 #### Handmade Quake:
+
+* **Handmade Quake 5.1 - Intro To Memory Management        - ([Youtube](https://www.youtube.com/watch?v=ODYvt7kJ3XM))
+* **Handmade Quake 4.7 - Loading WAD Files                 - ([Youtube](https://www.youtube.com/watch?v=1wKlG5hNCsw))
+* **Handmade Quake 4.6 - Loading Quake Assets At Will      - ([Youtube](https://www.youtube.com/watch?v=GsrAh89zBcs))
+* **Handmade Quake 4.5 - Plugging the File System into HQ  - ([Youtube](https://www.youtube.com/watch?v=BdBETRDFYFQ))
+* **Handmade Quake 4.4 - Game Directories and File Loading - ([Youtube](https://www.youtube.com/watch?v=1NuTrzseuW4))
 
 May 15, 2016 
 

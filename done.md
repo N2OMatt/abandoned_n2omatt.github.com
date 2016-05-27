@@ -91,15 +91,31 @@ May 4, 2016
 * **Sean Parent 'Better Code - Data Structures'**    - ([Youtube](https://www.youtube.com/watch?v=sWgDk-o-6ZE))
 
 
+#### Handmake Hero: 
+
+May 27, 2016
+
+* **Handmade Hero Day 002 - Opening a Win32 Window**
+
+May 26, 2016
+
+* **Handmade Hero Day 001 - Setting Up the Windows Build**
+
+
 #### Handmade Quake:
+
+May 25, 2016
+
+* **Handmade Quake 5.2 - Allocating On The Hunk**       - ([Youtube](https://www.youtube.com/watch?v=mLpE4O3fPSg))
+* **Handmade Quake 5.3 - Finishing Up the Hunk System** - ([Youtube](https://www.youtube.com/watch?v=JpD-T28PU-4))
 
 May 22, 2016 
 
-* **Handmade Quake 5.1 - Intro To Memory Management        - ([Youtube](https://www.youtube.com/watch?v=ODYvt7kJ3XM))
-* **Handmade Quake 4.7 - Loading WAD Files                 - ([Youtube](https://www.youtube.com/watch?v=1wKlG5hNCsw))
-* **Handmade Quake 4.6 - Loading Quake Assets At Will      - ([Youtube](https://www.youtube.com/watch?v=GsrAh89zBcs))
-* **Handmade Quake 4.5 - Plugging the File System into HQ  - ([Youtube](https://www.youtube.com/watch?v=BdBETRDFYFQ))
-* **Handmade Quake 4.4 - Game Directories and File Loading - ([Youtube](https://www.youtube.com/watch?v=1NuTrzseuW4))
+* **Handmade Quake 5.1 - Intro To Memory Management**        - ([Youtube](https://www.youtube.com/watch?v=ODYvt7kJ3XM))
+* **Handmade Quake 4.7 - Loading WAD Files**                 - ([Youtube](https://www.youtube.com/watch?v=1wKlG5hNCsw))
+* **Handmade Quake 4.6 - Loading Quake Assets At Will**      - ([Youtube](https://www.youtube.com/watch?v=GsrAh89zBcs))
+* **Handmade Quake 4.5 - Plugging the File System into HQ**  - ([Youtube](https://www.youtube.com/watch?v=BdBETRDFYFQ))
+* **Handmade Quake 4.4 - Game Directories and File Loading** - ([Youtube](https://www.youtube.com/watch?v=1NuTrzseuW4))
 
 May 15, 2016 
 

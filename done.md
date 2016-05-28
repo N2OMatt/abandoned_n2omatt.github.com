@@ -78,6 +78,12 @@ permalink: /done/
 
 ### Lectures (Online): 
 
+#### Misc.
+
+May 28, 2016
+
+* **A Era do Video Game - Discovery Channel**
+
 #### Cppcon
 
 May 5, 2016
@@ -93,8 +99,15 @@ May 4, 2016
 
 #### Handmake Hero: 
 
+May 28, 2016
+
+* **Handmade Hero Day 008 - Writing a Square Wave to DirectSound**
+* **Handmade Hero Day 007 - Initializing DirectSound**
+* **Handmade Hero Day 006 - Gamepad and Keyboard Input**
+
 May 27, 2016
 
+* **Handmade Hero Day 003 - Allocating a Backbuffer**
 * **Handmade Hero Day 002 - Opening a Win32 Window**
 
 May 26, 2016

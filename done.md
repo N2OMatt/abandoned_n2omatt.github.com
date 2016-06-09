@@ -97,8 +97,51 @@ May 4, 2016
 * **Sean Parent 'Better Code - Data Structures'**    - ([Youtube](https://www.youtube.com/watch?v=sWgDk-o-6ZE))
 
 
-#### Handmake Hero: 
+#### Handmade Hero: 
 
+<!--  -->
+Jun 07 2016
+
+* **Handmade Hero Day 019**   
+
+<!--  -->
+Jun 06 2016
+
+* **Handmade Hero Day 018**   
+
+<!--  -->
+Jun 05, 2016
+
+* **Handmade Hero Day 017**   
+
+<!--  -->
+Jun 03, 2016
+
+* **Handmade Hero Day 016**   
+* **Handmade Hero Day 015** 
+* **Handmade Hero Day 014** 
+
+<!--  -->
+Jun 02, 2016
+
+* **Handmade Hero Day 012**  
+
+<!--  -->
+Jun 01, 2016 
+
+* **Handmade Hero Day 011**   
+
+<!--  -->
+May 30 2016
+
+* **Handmade Hero Day 010**   
+
+<!--  -->
+May 29, 2016
+
+* **Handmade Hero Day 009**   
+
+<!--  -->
 May 28, 2016
 
 * **Handmade Hero Day 008 - Writing a Square Wave to DirectSound**

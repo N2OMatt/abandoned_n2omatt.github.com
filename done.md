@@ -99,9 +99,15 @@ May 4, 2016
 
 #### Handmade Hero: 
 
+<!--  -->
+Jun 09, 2016
+
+* **Handmade Hero 022** 
+
+<!--  -->
 Jun 08, 2016
 
-* **Handmade Hero 020**
+* **Handmade Hero 021**
 * **Handmade Hero 020**
 
 <!--  -->

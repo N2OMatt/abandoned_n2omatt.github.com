@@ -100,6 +100,17 @@ May 4, 2016
 #### Handmade Hero: 
 
 <!--  -->
+Jun 10, 2016
+
+* **Handmade Hero Day 025**
+* **Handmade Hero Day 024**
+
+<!--  -->
+Jun 09, 2016
+
+* ** Handmade Hero Day 023**
+
+<!--  -->
 Jun 09, 2016
 
 * **Handmade Hero 022** 

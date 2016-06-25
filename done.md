@@ -86,6 +86,10 @@ May 28, 2016
 
 #### Cppcon
 
+Jun 25, 2016 
+
+* **Scott Wardle "Memory and C++ debugging at Electronic Arts"** - ([Youtube](https://www.youtube.com/watch?v=8KIvWJUYbDA))
+
 May 5, 2016
 
 * **Eric Niebler 'Ranges for the Standard Library'**                                   -  ([Youtube](https://www.youtube.com/watch?v=mFUXNMfaciE))

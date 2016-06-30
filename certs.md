@@ -41,6 +41,10 @@ permalink: /certs/
 * [GNU Linux Ubuntu Desktop Básico](./GNU_Linux_Ubuntu_Desktop_B%C3%A1sico.html) 
 * [Fundamentos de Sistemas Linux](./Fundamentos_de_Sistemas_Linux.html) 
 
+## GXBrazil
+
+* [GX Brazil](./GX_Brazil.html) 
+
 ## Intel
 
 * [Cloud Computing](./Cloud_Computing.html) 

@@ -84,7 +84,24 @@ May 28, 2016
 
 * **A Era do Video Game - Discovery Channel**
 
+
+#### DConf
+
+Jun 28, 2016
+
+* **DConf 2014: The Last Thing D Needs (Scott Meyers)** - ([Youtube](https://www.youtube.com/watch?v=48kP_Ssg2eY))
+
+
 #### Cppcon
+
+Jum 29, 2016
+
+* **Nicolas Fleury "C++ in Huge AAA Games"** - ([Youtube](https://www.youtube.com/watch?v=qYN6eduU06s))
+
+
+Jun 28, 2016
+
+* **Chandler Carruth "Efficiency with Algorithms, Performance with Data Structures"** - ([Youtube](https://www.youtube.com/watch?v=fHNmRkzxHWs))
 
 Jun 25, 2016 
 
